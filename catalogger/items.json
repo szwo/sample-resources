@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "title": "BILLY",
+      "subtitle": "Bookcase",
+      "room": "Living Room",
+      "price": 49.0,
+      "image_url": "https://www.ikea.com/us/en/images/products/billy-bookcase-white__0625599_pe692385_s4.jpg"
+    },
+    {
+      "id": "002",
+      "title": "MALM",
+      "subtitle": "Dresser",
+      "room": "Bedroom",
+      "price": 129.0,
+      "image_url": "https://www.ikea.com/us/en/images/products/malm-6-drawer-dresser-black-brown__0484881_pe621345_s4.jpg"
+    },
+    {
+      "id": "003",
+      "title": "HEMNES",
+      "subtitle": "Night Stand",
+      "room": "Bedroom",
+      "price": 39.0,
+      "image_url": "https://www.ikea.com/us/en/images/products/hemnes-2-drawer-chest-dark-gray-stained__0528503_pe645824_s4.jpg"
+    },
+    {
+      "id": "004",
+      "title": "SONGESAND",
+      "subtitle": "Bed",
+      "room": "Bedroom",
+      "price": 189.0,
+      "image_url": "https://www.ikea.com/us/en/images/products/songesand-bed-frame-brown-luroey__0638582_pe699001_s4.jpg"
+    },
+    {
+      "id": "005",
+      "title": "FRIHETEN",
+      "subtitle": "Sofa",
+      "room": "Living Room",
+      "price": 499.0,
+      "image_url": "https://www.ikea.com/us/en/images/products/friheten-sleeper-sectional-3-seat-w-storage-skiftebo-blue__0690243_pe723167_s4.jpg"
+    }
+  ]
+}
